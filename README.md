@@ -1,0 +1,2 @@
+# Deep-Dive-Into-Modern-Web-Development
+ This is the first repository about my Full stack Journey taking the: Deep dive into the Modern Web Development - Full Stack Open 2020 Course.  Mean Goal:  Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
