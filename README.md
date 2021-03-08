@@ -1,4 +1,4 @@
-# Deep-Dive-Into-Modern-Web-Development
+# DeepDiveIntoModernWebDevelopment-Part0
 This is the first repository about my Full stack Journey taking the: Deep dive into the Modern Web Development - Full Stack Open 2020 Course. 
 
 ## Mean Goal:
