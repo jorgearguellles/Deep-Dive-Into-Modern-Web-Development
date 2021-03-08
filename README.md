@@ -18,4 +18,4 @@ Participants are expected to have good programming skills, basic knowledge of we
 
 Part 0 of the course material goes through the content and conduct of the course in more detail. Make sure to read the material and instructions thoroughly.
 
-#Be hapy & nice
+# Be happy & nice
