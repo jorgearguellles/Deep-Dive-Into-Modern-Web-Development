@@ -1,6 +1,6 @@
 import React from "react";
 
-const Body = (props) => {
+const Content = (props) => {
 	return (
 		<div>
 			<p>
@@ -16,4 +16,4 @@ const Body = (props) => {
 	);
 };
 
-export default Body;
+export default Content;
